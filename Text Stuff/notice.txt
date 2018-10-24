@@ -1,0 +1,1 @@
+17/06: You can now request things with ?request. Note that only things that I find appropriate/usefull will be added.
