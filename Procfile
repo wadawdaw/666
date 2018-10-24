@@ -1,1 +1,1 @@
-bot: python Nep.py
+worker: python Nep.py
